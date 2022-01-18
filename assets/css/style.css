@@ -269,11 +269,12 @@ h1 {
 #highlight {
   /* padding: 0;
   background: #fff; */
-  height: 1600px;
+  height: 700px;
+  margin-top: -150px;
 }
 
 #highlight .bg-grey {
-  padding-top: 120px;
+  padding-top: 270px;
   background: rgba(246, 248, 248, 1);
   position: -webkit-sticky;
   position: sticky;
@@ -486,6 +487,11 @@ h1 {
 @media only screen and (max-width: 600px) {
   #highlight {
     padding: 60px 0;
+    margin-top: -50px;
+  }
+
+  #highlight .bg-grey {
+    padding-top: 170px;
   }
   #highlight h3 {
     font-size: 32px;
@@ -565,7 +571,7 @@ h1 {
   font-family: "tt comons";
   font-size: 80px;
   line-height: 82px;
-  margin-top: 258px;
+  margin-top: 200px;
   color: rgba(20, 20, 20, 1);
   text-align: center;
   width: 900px;

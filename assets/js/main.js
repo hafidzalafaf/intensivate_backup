@@ -5,12 +5,12 @@ function slideing() {
     let section1 = document.getElementById('highlight-one');
     let section2 = document.getElementById('highlight-two');
     let section3 = document.getElementById('highlight-three');
-    let elementVisible1 = 800;
-    let elementVisible2 = 1050;
-    let elementVisible3 = 1300;
-    let elementHidden1 = 1050;
-    let elementHidden2 = 1300;
-    let elementHidden3 = 1450;
+    let elementVisible1 = 600;
+    let elementVisible2 = 850;
+    let elementVisible3 = 1100;
+    let elementHidden1 = 850;
+    let elementHidden2 = 1100;
+    let elementHidden3 = 1350;
     let windowHeight = window.innerHeight;
     let box = document.querySelectorAll('.item');
 
@@ -170,8 +170,6 @@ $(window).scroll(function () {
     }
 
 });
-
-
 
 
 // Parallax Gsap
