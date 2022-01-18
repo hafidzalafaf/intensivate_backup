@@ -920,6 +920,9 @@ h1 {
   #server .three p {
     text-align: left;
   }
+  #server .third img {
+    height: 60px;
+  }
 }
 
 /* end server */
