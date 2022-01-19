@@ -1160,6 +1160,11 @@ h1 {
   position: relative;
 }
 
+#footer .bottom .logo img {
+  width: 177px;
+  height: 34px;
+}
+
 #footer .bottom p {
   position: absolute;
   top: 2px;
