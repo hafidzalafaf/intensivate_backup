@@ -6,11 +6,11 @@ function slideing() {
     let section2 = document.getElementById('highlight-two');
     let section3 = document.getElementById('highlight-three');
     let elementVisible1 = 600;
-    let elementVisible2 = 850;
-    let elementVisible3 = 1100;
-    let elementHidden1 = 850;
-    let elementHidden2 = 1100;
-    let elementHidden3 = 1350;
+    let elementVisible2 = 1400;
+    let elementVisible3 = 2200;
+    let elementHidden1 = 1400;
+    let elementHidden2 = 2200;
+    let elementHidden3 = 3000;
     let windowHeight = window.innerHeight;
     let box = document.querySelectorAll('.item');
 

@@ -269,7 +269,7 @@ h1 {
 #highlight {
   /* padding: 0;
   background: #fff; */
-  height: 900px;
+  height: 2500px;
   margin-top: -150px;
 }
 
@@ -783,6 +783,7 @@ h1 {
 
 #server .one .first .row img {
   width: 221px;
+  height: 42px;
 }
 
 #server .first .row {
@@ -919,9 +920,6 @@ h1 {
   }
   #server .three p {
     text-align: left;
-  }
-  #server .third img {
-    height: 60px;
   }
 }
 
